@@ -719,7 +719,7 @@ body.modal-open {
   }
   .bottom-line::after {
     position: relative;
-    top: 29px;
+    top: 30px;
     display: block;
     content: "";
     background-color: #2196f3;
@@ -727,18 +727,18 @@ body.modal-open {
     width: inherit;
     border-radius: 2px;
   }
-  .bottom-line2 {
+  .bottom-line2::after {
     position: relative;
-    top: 29px;
+    top: 30px;
     display: block;
     content: "";
     height: 4px;
     width: inherit;
     border-radius: 2px;
   }
-  .bottom-line3 {
+  .bottom-line3::after {
     position: relative;
-    top: 29px;
+    top: 30px;
     display: block;
     content: "";
     height: 4px;
